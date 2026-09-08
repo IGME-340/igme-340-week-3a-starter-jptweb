@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "igme-340"
+assignment: "week-3a-starter"
+owner:
+  username: "jptweb"
+  id: 1360276
+  accepted_at: "2026-09-08T15:08:45Z"
+source:
+  owner: "IGME-340"
+  owner_id: 315522876
+  repo: "week3a_starter"
+  branch: "main"
